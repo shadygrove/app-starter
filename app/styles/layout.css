@@ -1,8 +1,46 @@
 .container-fluid { 
-	background-color: #fafafa; 
-
 }
 
-.sidebar-wrapper {
+/*  
+****************************
+Header Nav
+**************************** 
+*/
+.navbar a.navbar-brand { 
+ 	margin-right: 40px;
+}
+
+/*  
+****************************
+Sidebar
+**************************** 
+*/
+#sidebar {
 	border: 0px solid green;
+	height: 100%;
+    /*padding: 20px 0 0px 0;*/
+    border-right: 1px solid #555;
 }
+
+#sidebar .list-group-item {
+        border-radius: 0;
+        /*border-left: 0;
+        border-right: 0;
+        border-top: 0;*/
+}
+
+#sidebar .input-group { 
+	border-radius: 0;
+}
+
+
+
+/*  
+****************************
+Content Area
+**************************** 
+*/
+#content { 
+
+}
+
