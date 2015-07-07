@@ -47,6 +47,10 @@ body {
     max-width: 730px;
   }
 
+  .navbar { 
+    border-radius: 0;
+  }
+
   /* Remove the padding we set earlier */
   .header,
   .marketing,

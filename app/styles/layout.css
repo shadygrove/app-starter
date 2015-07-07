@@ -18,7 +18,7 @@ Sidebar
 #sidebar {
 	border: 0px solid green;
 	height: 100%;
-    /*padding: 20px 0 0px 0;*/
+    padding-top: 20px;
     border-right: 1px solid #555;
 }
 
